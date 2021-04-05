@@ -1,0 +1,9 @@
+E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe.config
+E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.pdb
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.ProjectInstaller.resources
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.csproj.GenerateResource.cache
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.csproj.CoreCompileInputs.cache
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.exe
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.pdb
+E:\MaDoc\Lab1_bt3\Lab1_bt3\obj\Debug\Lab1_bt3.csprojAssemblyReference.cache

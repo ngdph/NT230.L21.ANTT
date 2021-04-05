@@ -1,0 +1,8 @@
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\bin\Debug\NT230.Lab01.exe.config
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\bin\Debug\NT230.Lab01.exe
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\bin\Debug\NT230.Lab01.pdb
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\obj\Debug\NT230.Lab01.ProjectInstaller.resources
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\obj\Debug\NT230.Lab01.csproj.GenerateResource.cache
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\obj\Debug\NT230.Lab01.csproj.CoreCompileInputs.cache
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\obj\Debug\NT230.Lab01.exe
+E:\Workspace\Visual Studio\source\repos\NT230.Lab01\obj\Debug\NT230.Lab01.pdb

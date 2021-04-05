@@ -1,0 +1,143 @@
+﻿Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.InstallLog
+   assemblypath = E:\MaDoc\Lab1_bt3\Lab1_bt3\bin\Debug\Lab1_bt3.exe
