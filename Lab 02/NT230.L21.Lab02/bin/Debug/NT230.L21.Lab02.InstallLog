@@ -1,0 +1,96 @@
+﻿Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Installing assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
+Rolling back assembly 'C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.InstallLog
+   assemblypath = C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
+An exception occurred while trying to find the installers in the C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.
