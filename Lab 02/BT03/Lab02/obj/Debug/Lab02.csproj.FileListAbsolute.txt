@@ -1,0 +1,7 @@
+E:\MaDoc\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\MaDoc\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\MaDoc\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\MaDoc\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+E:\MaDoc\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\MaDoc\Lab02\Lab02\obj\Debug\Lab02.pdb
+E:\MaDoc\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\bin\Debug\Lab02.BT04.exe.config
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\bin\Debug\Lab02.BT04.exe
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\bin\Debug\Lab02.BT04.pdb
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\obj\Debug\Lab02.BT04.ProjectInstaller.resources
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\obj\Debug\Lab02.BT04.csproj.GenerateResource.cache
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\obj\Debug\Lab02.BT04.csproj.CoreCompileInputs.cache
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\obj\Debug\Lab02.BT04.exe
+D:\Workspace\Visual Studio\source\repos\Lab02.BT04\obj\Debug\Lab02.BT04.pdb

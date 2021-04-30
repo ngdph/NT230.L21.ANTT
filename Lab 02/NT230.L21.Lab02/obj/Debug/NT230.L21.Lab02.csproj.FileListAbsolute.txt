@@ -1,9 +1,0 @@
-C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe.config
-C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.exe
-C:\Users\phung\source\repos\NT230.L21.Lab02\bin\Debug\NT230.L21.Lab02.pdb
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.csprojAssemblyReference.cache
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.ProjectInstaller.resources
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.csproj.GenerateResource.cache
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.csproj.CoreCompileInputs.cache
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.exe
-C:\Users\phung\source\repos\NT230.L21.Lab02\obj\Debug\NT230.L21.Lab02.pdb
